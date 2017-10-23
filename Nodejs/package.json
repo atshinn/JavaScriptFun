@@ -1,0 +1,19 @@
+{
+  "name": "nodefun",
+  "version": "1.0.0",
+  "description": "Making cool stuff with node",
+  "main": "fun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atshinn/JavaScriptFun.git"
+  },
+  "author": "Alec Shinn atshinn1@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atshinn/JavaScriptFun/issues"
+  },
+  "homepage": "https://github.com/atshinn/JavaScriptFun#readme"
+}
